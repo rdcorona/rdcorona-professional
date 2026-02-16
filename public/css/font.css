@@ -1,44 +1,20 @@
 
-
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Alata&display=swap');
-
-
-
 /* Default font for body */
-
 body {
-
-    font-family: "Inter", sans-serif !important;
-
+    font-family: "Lora", serif !important;
 }
 
-
-
-/* secondary font, now also Inter */
-
+/* secondary font */
 .secondary-font, #secondary-font {
-
-    font-family: "Inter", sans-serif;
-
+    font-family: "Lora", serif;
 }
 
-
-
-/* primary font for special headings */
-
+/* primary font */
 .primary-font, #primary-font {
-
     font-family: "Alata", sans-serif;
-
 }
 
-
-
-/* Default font, now Inter */
-
+/* Default font */
 .default-font, #default-font {
-
-    font-family: "Inter", sans-serif;
-
+    font-family: "Roboto", sans-serif;
 }

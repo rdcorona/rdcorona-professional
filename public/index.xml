@@ -1,18 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Precision in Science &amp; Software</title>
-    <link>//localhost:54823/</link>
-    <description>Recent content on Precision in Science &amp; Software</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="//localhost:54823/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Personal Life: Beyond the Code</title>
-      <link>//localhost:54823/personal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:54823/personal/</guid>
-      <description>&lt;h3 class=&#34;primary-font&#34;&gt;Music &amp; Art&lt;/h3&gt;&#xA;A lifelong passion for music and the atmospheric aesthetics of Tim Burton&#39;s cinematography.&#xA;&lt;h3 class=&#34;primary-font&#34;&gt;The Lore &lt;i class=&#34;fa-solid fa-ring&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fa-solid fa-user-ninja&#34;&gt;&lt;/i&gt;&lt;/h3&gt;&#xA;Deeply inspired by the worlds of J.R.R. Tolkien (Lord of the Rings) and the timeless action of the Teenage Mutant Ninja Turtles.&#xA;&lt;h3 class=&#34;primary-font&#34;&gt;History &amp; Culture &lt;i class=&#34;fa-solid fa-landmark&#34;&gt;&lt;/i&gt;&lt;/h3&gt;&#xA;An enthusiast of Mayan culture and its incredible astronomical and mathematical legacy.&#xA;&lt;h3 class=&#34;primary-font&#34;&gt;My Companion&lt;/h3&gt;&#xA;In my free time, you&#39;ll find me with my dog, likely exploring or relaxing in a watercolor-inspired setting.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Precision in Science &amp; Software</title><link>www.rdcoronaf.page/</link><description>Recent content on Precision in Science &amp; Software</description><generator>Hugo</generator><language>en-us</language><atom:link href="www.rdcoronaf.page/index.xml" rel="self" type="application/rss+xml"/><item><title>Personal Life: Beyond the Code</title><link>www.rdcoronaf.page/personal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>www.rdcoronaf.page/personal/</guid><description>&lt;h3 class="primary-font"&gt;The Arts&lt;/h3&gt;
+A passion for music and the unique cinematic style of Tim Burton.
+&lt;h3 class="primary-font"&gt;Mythology &amp; Lore &lt;i class="fa-solid fa-ring"&gt;&lt;/i&gt; &lt;i class="fa-solid fa-user-ninja"&gt;&lt;/i&gt;&lt;/h3&gt;
+Enthusiast of J.R.R. Tolkien’s Middle-earth and a fan of the Teenage Mutant Ninja Turtles.
+&lt;h3 class="primary-font"&gt;Cultural Heritage &lt;i class="fa-solid fa-landmark"&gt;&lt;/i&gt;&lt;/h3&gt;
+Student of Mayan history and its mathematical contributions to humanity.
+&lt;h3 class="primary-font"&gt;Personal Life&lt;/h3&gt;
+Proud dog owner and explorer of watercolor-inspired art.</description></item></channel></rss>
