@@ -1,4 +1,4 @@
-baseURL: "www.rdcoronaf.page"
+baseURL: "https://www.rdcoronaf.page/"
 languageCode: "en-us"
 title: "Precision in Science & Software"
 theme: hugo-profile
