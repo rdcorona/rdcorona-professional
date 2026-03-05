@@ -18,7 +18,9 @@ export const siteConfig = {
     "Selenium",
     "Squish",
     "Docker",
-    "CI/CD",
+    "Azure Pipelines",
+    "AI Test Automation",
+    "Generative AI",
     "Bash",
     "PowerShell",
     "Unix/Linux",
@@ -51,9 +53,9 @@ export const siteConfig = {
       title: "Software Developer in Test (SDET)",
       dateRange: "Oct 2025 - Present",
       bullets: [
-        "Reduced flaky tests by 30%, improving reliability and confidence in CI/CD pipelines.",
-        "Designed and implemented Docker-based test environments, enabling scalable, reproducible, and cross-platform testing.",
-        "Integrated automated testing into CI/CD workflows, enhancing deployment efficiency and reducing defects in production.",
+        "Engineered custom AI tools to automate test creation, streamline triage, and perform intelligent root-cause analysis for failed tests within Azure Pipelines.",
+        "Utilized AI coding assistants for 'code vibe' evaluations, improving the structural integrity, readability, and maintainability of Python and C# testing frameworks.",
+        "Designed Docker-based test environments and maintained CI/CD workflows, ensuring the reliability of pipelines executing thousands of automated tests.",
       ],
     },
     {
