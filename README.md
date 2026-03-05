@@ -1,12 +1,12 @@
-<!-- PEGA TU IMAGEN AQUÍ (Sustituye esta línea por lo que tienes en el portapapeles) -->
+![rdcorona](image.png)
 
 # Raúl Daniel Corona-Fernández - Professional Portfolio
 
-Bienvenido al código fuente de mi portafolio profesional. Soy **Raúl Daniel Corona-Fernández**, Software Developer in Test (SDET) y Desarrollador Python con más de 7 años de experiencia especializada en automatización de pruebas, infraestructura basada en Docker y flujos de trabajo CI/CD.
+Welcome to the source code of my professional portfolio. I am **Raúl Daniel Corona-Fernández**, Software Developer in Test (SDET) and Python Developer with over 7 years of experience specialising in test automation, Docker-based infrastructure, and CI/CD workflows.
 
-Este sitio web está inspirado y construido sobre el excelente [DevPortfolio Template](https://github.com/RyanFitzgerald/devportfolio) creado por Ryan Fitzgerald. Utiliza **Astro** y **Tailwind CSS** para ofrecer una experiencia web moderna, rápida y minimalista.
+This website is inspired by and built on the excellent [DevPortfolio Template](https://github.com/RyanFitzgerald/devportfolio) created by Ryan Fitzgerald. It uses **Astro** and **Tailwind CSS** to deliver a modern, fast, and minimalist web experience.
 
-Puedes visitar el sitio en vivo en: [https://www.rdcoronaf.page/professional/](https://www.rdcoronaf.page/professional/)
+You can visit the live site at: [https://www.rdcoronaf.page/professional/](https://www.rdcoronaf.page/professional/)
 
 ## License
 
